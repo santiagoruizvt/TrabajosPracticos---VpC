@@ -1,0 +1,10 @@
+[project]
+name = "trabajos-practicos-vpc"
+version = "0.1.0"
+description = "Trabajos practicos de Vision por Computadora"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "opencv-python",
+]
