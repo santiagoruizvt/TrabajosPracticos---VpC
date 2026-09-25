@@ -3,3 +3,6 @@
 
 # uv
 uv.lock
+
+# Outputs
+outputs/
